@@ -5,4 +5,6 @@ WORKING-STORAGE SECTION.
 PROCEDURE DIVISION.
        DISPLAY "JANA"
       DISPLAY "WELCOME TO MAINFRAMES"
+      display "this is unix modification.
       STOP RUN.
+      
